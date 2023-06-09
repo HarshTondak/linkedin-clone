@@ -15,7 +15,6 @@ function Widgets() {
         heading="Berserk chapter 373"
         subtitles="- Readers 9,89,972"
       />
-
       <NewsArticles
         heading="One Piece Chapter 1086"
         subtitles="- Readers 15,89,072"

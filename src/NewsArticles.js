@@ -16,5 +16,4 @@ function NewsArticles({ heading, subtitles }) {
     </div>
   );
 }
-
 export default NewsArticles;
